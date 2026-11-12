@@ -1,4 +1,4 @@
-# DeeMoney
+# DeeMoney 
 
 **Information Design Student**
 
@@ -15,3 +15,4 @@
 > "Pay attention. Be astonished. Tell about it." -Mary Oliver
 
 *Thoughtful design for curious minds.*
+**$$$$$**
